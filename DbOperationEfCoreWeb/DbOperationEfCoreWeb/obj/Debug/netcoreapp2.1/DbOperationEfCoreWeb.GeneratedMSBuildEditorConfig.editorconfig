@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DbOperationEfCoreWeb
+build_property.ProjectDir = C:\Rakesh\EntityFramework\DbOperationEfCoreWeb\DbOperationEfCoreWeb\DbOperationEfCoreWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
